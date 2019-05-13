@@ -12,3 +12,16 @@
 	top: 47%;
 	cursor: pointer;
 }
+
+.btn {
+	position: absolute;
+	width: 574px;
+	height: 390px;
+	right: 0;
+	top: 73.6%;
+	background: url(../images/btn.png) 0 0 no-repeat;
+}
+
+.btn:hover {
+	background-position: 0 -390px;
+}
