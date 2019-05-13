@@ -1,6 +1,14 @@
 .wrapper {
+  position: relative;
   width: 1200px;
 	height: 1800px;
   background: url(../images/bg.jpg) no-repeat;
   margin: 0 auto; /* 置中 */
+}
+
+.video {
+	position: absolute;
+	left: 17%;
+	top: 47%;
+	cursor: pointer;
 }
