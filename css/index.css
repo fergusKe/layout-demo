@@ -1,0 +1,6 @@
+.wrapper {
+  width: 1200px;
+	height: 1800px;
+  background: url(../images/bg.jpg) no-repeat;
+  margin: 0 auto; /* 置中 */
+}
